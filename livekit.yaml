@@ -1,0 +1,8 @@
+port: 7880
+
+keys:
+  devkey: "this_is_a_very_long_dev_secret_32_chars_min"
+
+logging:
+  level: info
+
